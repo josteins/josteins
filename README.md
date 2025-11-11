@@ -123,15 +123,42 @@
 
 **Tech Stack**: Rust, Tauri, Flutter, Dart
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Contributions
 
 <div align="center">
 
-![Jostein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josteins&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+### 🔥 Contribution Stats
+![Jostein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josteins&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josteins&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+### 💻 Language Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josteins&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
+
+### 📈 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josteins&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
+
+## 🏆 Development Metrics (Public + Private)
+
+### Code & Contributions
+- 💾 **Thousands of commits** across enterprise HealthTech and Fintech platforms
+- 🔧 **Multi-platform development**: iOS Native, Android, Web (React/TypeScript), Backend (Python/Rust)
+- 🏗️ **Infrastructure as Code**: Docker, Kubernetes, CI/CD pipelines with GitHub Actions
+- 📦 **Package management**: Built reusable component libraries and design systems
+- 🧪 **Test coverage**: Comprehensive unit, integration, and E2E testing suites
+
+### Architecture & Scale
+- 🚀 **Built systems handling**: Millions in transaction volume (Fintech), 18+ device integrations (HealthTech)
+- ⚡ **Performance optimization**: Sub-100ms API responses, real-time WebSocket communications
+- 🔐 **Security & Compliance**: HIPAA, GDPR, FCA compliant systems with encryption at rest and in transit
+- 🌍 **Global deployment**: Multi-region architecture across UK, US, Mexico, and expanding to Africa
+- 📊 **Database design**: PostgreSQL schemas handling 350,000+ documents, time-series health data
+
+### Technical Leadership
+- 👥 **Team collaboration**: Led distributed engineering teams across multiple time zones
+- 📝 **Documentation**: Comprehensive API documentation, architecture decision records
+- 🎯 **Code review**: Maintaining high code quality standards and best practices
+- 🔄 **Continuous improvement**: Regular refactoring, dependency updates, security patches
 
 ## 📝 Recent Writing
 
