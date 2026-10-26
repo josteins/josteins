@@ -1,0 +1,38 @@
+name: Contribution ranking
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"   # Mondays 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rankings
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect and render
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: read-only token for norvanaltd/Norvana (Pull requests: read).
+          # Without it the last merged-PR counts are kept and marked with their date.
+          NORVANA_READ_TOKEN: ${{ secrets.NORVANA_READ_TOKEN }}
+        run: python -I rankings/collect.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md rankings
+          git diff --cached --quiet && { echo "No changes"; exit 0; }
+          git commit -m "Update contribution ranking ($(date -u +%F))"
+          git push

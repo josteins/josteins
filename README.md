@@ -125,6 +125,18 @@
 
 ## 📊 GitHub Activity & Contributions
 
+<!-- rankings:start -->
+<div align="center">
+
+### 🏁 Contribution ranking
+
+<a href="https://josteins.github.io/josteins/rankings/"><picture><source media="(prefers-color-scheme: dark)" srcset="rankings/card-dark.svg"><img alt="33,584 contributions in the last 12 months; #3 in Norway, #6 in UK" src="rankings/card-light.svg" width="560"></picture></a>
+
+<sub>Updated weekly · <a href="https://josteins.github.io/josteins/rankings/">full charts</a></sub>
+
+</div>
+<!-- rankings:end -->
+
 <div align="center">
 
 ### 🔥 Contribution Stats
