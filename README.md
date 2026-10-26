@@ -139,9 +139,6 @@
 
 <div align="center">
 
-### 🔥 Contribution Stats
-![Jostein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josteins&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true)
-
 ### 💻 Language Distribution
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josteins&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
 
