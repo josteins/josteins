@@ -21,7 +21,7 @@
 - 💼 **Startup Leadership**: Taking ideas from concept to market-ready products
 - 🏗️ **Product Development**: Building scalable, multi-platform applications
 - 📊 **Fintech Innovation**: Payment systems, financial data analytics, and regulatory compliance
-- 🏥 **HealthTech**: HIPAA/GDPR compliant systems, medical AI, wearable integration
+- 🏥 **HealthTech**: HIPAA- and GDPR-ready systems, medical AI, wearable integration
 - 🌐 **Global Operations**: Experience scaling companies across Europe and North America
 - 💡 **Thought Leadership**: Speaking and writing on AI's impact on work, healthcare, and society
 
@@ -38,9 +38,9 @@
 **🏥 [Norvana](https://www.norvana.ai)** - Founder & CEO
 - AI-powered comprehensive health platform
 - 18+ wearable device integrations (Oura, Whoop, Apple Health, Garmin)
-- Multi-platform: iOS Native, Android, PWA
-- Serving users across UK, Mexico, and expanding to East Africa
-- HIPAA & GDPR compliant healthcare infrastructure
+- Multi-platform: iOS Native and PWA, Android planned
+- Preparing for US launch, currently in private beta
+- Built for HIPAA and UK GDPR from day one
 
 ### Previous Ventures
 **💰 Fintech** - Multiple Companies
@@ -105,12 +105,12 @@
 ### 🏥 [Norvana](https://www.norvana.ai)
 **AI-Powered Comprehensive Health Platform**
 - 18+ wearable device integrations (Oura, Whoop, Apple Health, Garmin)
-- Multi-platform: iOS Native (SwiftUI), Android Native, PWA (React)
+- Multi-platform: iOS Native (SwiftUI) and PWA (React), Android planned
 - Real-time health insights with AI-powered predictions
 - FastAPI backend with PostgreSQL + Redis
 - Medical document processing with OCR and NLP
 - WebSocket real-time updates
-- HIPAA & GDPR compliant
+- Built for HIPAA and UK GDPR
 
 **Tech Stack**: Python, TypeScript, Swift, React, FastAPI, PostgreSQL, Redis, Docker
 
@@ -162,9 +162,9 @@
 ### Architecture & Scale
 - 🚀 **Built systems handling**: Millions in transaction volume (Fintech), 18+ device integrations (HealthTech)
 - ⚡ **Performance optimization**: Sub-100ms API responses, real-time WebSocket communications
-- 🔐 **Security & Compliance**: HIPAA, GDPR, FCA compliant systems with encryption at rest and in transit
-- 🌍 **Global deployment**: Multi-region architecture across UK, US, Mexico, and expanding to Africa
-- 📊 **Database design**: PostgreSQL schemas handling 350,000+ documents, time-series health data
+- 🔐 **Security & Compliance**: HIPAA-ready health systems and FCA-regulated fintech, with encryption at rest and in transit
+- 🌍 **Deployment**: Infrastructure in Europe and the US, built for a US-first launch
+- 📊 **Database design**: PostgreSQL schemas for medical documents and time-series health data
 
 ### Technical Leadership
 - 👥 **Team collaboration**: Led distributed engineering teams across multiple time zones
@@ -184,7 +184,7 @@
 - 🤖 Advanced AI clinical assistant with real-time transcription
 - 📊 Digital twin simulations for health optimization
 - 🧬 DNA + Blood testing integration for longitudinal health tracking
-- 🌍 Multi-region deployment (UK, Mexico, East Africa)
+- 🇺🇸 US launch with our first clinical partners
 
 ## 💬 Let's Connect
 
